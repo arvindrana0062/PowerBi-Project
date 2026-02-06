@@ -130,7 +130,7 @@ The goal of the project is to transform raw sales data into actionable insights 
 
 
 Dashboard Design & Data Visualization:
-![Overview](Sales_Performance.png)
+![Overview](Sales-Performance.png)
 
 🔍 Analysis Performed
 
