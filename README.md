@@ -1,6 +1,8 @@
-# PowerBi-Project
+# Portfolio Projects
 
-# Gold Price Trend, Volatility & Market Activity Analysis
+# Following are my projects in SQL,Power Bi
+
+##Gold Price Trend, Volatility & Market Activity Analysis
 
 ## 📌 Project Overview
 This Power BI project analyzes historical gold price data to identify long-term trends, price volatility and trading activity. The dashboard is designed to support market analysis and investment insights.
@@ -40,10 +42,10 @@ sales performance, profitability, product categories, and regional trends.
 ## 📊 Dataset
 The dataset consists of three tables:
 - Orders
-- Order Items
-- Products
+- Order_Item_Table
+- Products_Table
 
-Total records: ~2500 orders
+Total records: ~3500 orders
 
 ## 🛠 Tools & Technologies
 - MySQL
@@ -61,12 +63,6 @@ Total records: ~2500 orders
 ## 📈 Dashboard Preview
 ![Overview](Dashboard.png)
 
-
-## 📂 Repository Structure
-- `data/` → Raw CSV files
-- `sql/` → Table creation, validation, and analysis queries
-- `dashboard/` → Power BI dashboard screenshots
-- `powerbi/` → Power BI (.pbix) file
 
 ## ✅ Key Learnings
 - Database normalization
