@@ -105,10 +105,10 @@ INDEX MATCH
 ![Overview](Index-Match.png)
 
 SUMIFS / COUNTIFS
-![Overview](countif-and-sumif.png)
+![Overview](Countif-and-Sumif.png)
 
 Vlookup
-![Overview](vlookup.png)
+![Overview](Vlookup.png)
 
 Dashboard Design & Data Visualization
 
