@@ -31,4 +31,46 @@ This Power BI project analyzes historical gold price data to identify long-term 
 - Gold_Price_Analysis.pbix
 - gold_price_data.csv
 - screenshots/
+# E-commerce Sales Analysis (SQL + Power BI)
+
+## 📌 Project Overview
+This project analyzes e-commerce sales data to identify key insights related to
+sales performance, profitability, product categories, and regional trends.
+
+## 📊 Dataset
+The dataset consists of three tables:
+- Orders
+- Order Items
+- Products
+
+Total records: ~2500 orders
+
+## 🛠 Tools & Technologies
+- MySQL
+- Power BI
+- Excel
+- GitHub
+
+## 🔍 Key Analysis Performed
+- Total sales and profit analysis
+- Category-wise and product-wise performance
+- Region-wise sales analysis
+- Monthly sales trend
+- Profit margin calculation
+
+## 📈 Dashboard Preview
+![Overview](dashboard/overview.png)
+![Sales by Category](dashboard/sales_by_category.png)
+
+## 📂 Repository Structure
+- `data/` → Raw CSV files
+- `sql/` → Table creation, validation, and analysis queries
+- `dashboard/` → Power BI dashboard screenshots
+- `powerbi/` → Power BI (.pbix) file
+
+## ✅ Key Learnings
+- Database normalization
+- SQL joins and aggregations
+- Business-focused analysis
+- Data visualization best practices
 
