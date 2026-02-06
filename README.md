@@ -59,8 +59,8 @@ Total records: ~2500 orders
 - Profit margin calculation
 
 ## 📈 Dashboard Preview
-![Overview](dashboard/overview.png)
-![Sales by Category](dashboard/sales_by_category.png)
+![Overview](dashboard.png)
+
 
 ## 📂 Repository Structure
 - `data/` → Raw CSV files
