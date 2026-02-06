@@ -109,13 +109,13 @@ Dashboard Design & Data Visualization
 
 Key analysis conducted in this project includes:
 
-Summary metrics (Total, Average, Growth)
+- Summary metrics (Total, Average, Growth)
 
-Category-wise and region-wise analysis
+- Category-wise and region-wise analysis
 
-Trend analysis over time
+- Trend analysis over time
 
-Top & bottom performance identification
+- Top & bottom performance identification
 
 
 
@@ -126,9 +126,6 @@ This project analyzes global footwear sales data using Microsoft Excel to unders
 The goal of the project is to transform raw sales data into actionable insights through structured analysis and an interactive Excel dashboard.
 
 
-📁 Data Source: Kaggle
-
-
 Dashboard Design & Data Visualization:
 ![Overview](Sales-Performance.png)
 
@@ -136,41 +133,38 @@ Dashboard Design & Data Visualization:
 
 The following analyses were conducted:
 
-Total sales and profit analysis
+- Total sales and profit analysis
 
-Region-wise and country-wise sales performance
+- Region-wise and country-wise sales performance
 
-Category-wise footwear sales comparison
+- Category-wise footwear sales comparison
 
-Monthly and yearly sales trends
+- Monthly and yearly sales trends
 
-Top-performing and underperforming products
+- Top-performing and underperforming products
 
-Profitability analysis across regions and categories
+- Profitability analysis across regions and categories
 
 📊 Dashboard Highlights
 
 The Excel dashboard includes:
 
-KPI cards for Total Sales, Total Profit, and Units Sold
+- KPI cards for Total Sales, Total Profit, and Units Sold
 
-Region and category-level slicers for interactivity
+- Region and category-level slicers for interactivity
 
-Trend charts for time-based analysis
+- Trend charts for time-based analysis
 
-Bar and pie charts for product and category comparison
-
-Conditional formatting to highlight high and low performance
-
+- Bar and pie charts for product and category 
 
 🧠 Learnings & Takeaways
 
-Hands-on experience with real-world retail sales analysis
+- Hands-on experience with real-world retail sales analysis
 
-Improved data cleaning and structuring techniques in Excel
+- Improved data cleaning and structuring techniques in Excel
 
-Practical use of advanced Excel formulas for analysis
+- Practical use of advanced Excel formulas for analysis
 
-Designed an intuitive dashboard for business stakeholders
+- Designed an intuitive dashboard for business stakeholders
 
 
